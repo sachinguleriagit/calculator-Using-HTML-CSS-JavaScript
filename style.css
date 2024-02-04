@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@600&family=Poppins:wght@400;700&family=Roboto:wght@300&display=swap');
+
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container{
+  width: 20%;
+  border: 2px solid black;
+  border-radius: 20px;
+  /* background-color: pink; */
+}
+
+.button {
+  padding: 24px;
+  width: 66px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.row {
+  margin: 8px 0;
+}
+
+.row input {
+  width: 291px;
+  font-size: 20px;
+  margin: 0;
+  padding: 10px 0px;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: lightblue;
+}
+
+#button-c{
+  height: 63px;
+  width: 220px;
+  background-color: #ff0707;
+  /* border: 2px solid black;
+  border-radius: 5px; */
+}
+
+#button-eq{
+  background-color:#00c7fd;
+}
+
+.btn-opr{
+  background-color: #ffcf05d9;
+}
